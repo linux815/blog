@@ -12,8 +12,6 @@ return [
         'editor' => [
             'articles' => 'a,c,r,u',
             'articles.comments' => 'a,c,r,u',
-            'users' => 'a,c,r,u,d,b',
-            'categories' => 'a,c,r,u,d',
             'comments' => 'a,r'
         ],
     ],
