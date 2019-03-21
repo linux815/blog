@@ -9,6 +9,7 @@ How install:
 7. `composer install`
 8. `npm install` or `npm install --unsafe-perm`
 9. `php artisan key:generate`
+9.1. `php artisan jwt:secret`
 10. `php artisan migrate`
 11. `php artisan db:seed`
 12. (optional) `chown laradock:laradock -R storage/logs/`
