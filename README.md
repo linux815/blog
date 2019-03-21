@@ -13,7 +13,7 @@ How install:
 10. `php artisan migrate`
 11. `php artisan db:seed`
 12. (optional) `chown laradock:laradock -R storage/logs/`
-13. `cd client && npm run dev`
+13. `cd client && npm install && npm run dev`
 14. run browser and enter `yourip:3000`
 
 Так как тестовое задание удавалось делать только по вечерам, я не успел доделать фронт (CRUD). Плюс разворачивал всё с нуля и с nuxt.js ранее не работал.
